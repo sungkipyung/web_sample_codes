@@ -1,0 +1,269 @@
+main> [2014-08-30 16:01:57] [logging] [29] [DEBUG] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+main> [2014-08-30 16:01:57] [Version] [27] [INFO] HV000001: Hibernate Validator 5.0.3.Final 
+main> [2014-08-30 16:01:57] [DefaultTraversableResolver] [74] [DEBUG] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable. 
+main> [2014-08-30 16:01:57] [ConfigurationImpl] [120] [DEBUG] Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator 
+main> [2014-08-30 16:01:57] [ConfigurationImpl] [140] [DEBUG] Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory 
+main> [2014-08-30 16:01:57] [ConfigurationImpl] [154] [DEBUG] Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy22 
+main> [2014-08-30 16:01:57] [ValidationXmlParser] [88] [DEBUG] Trying to load META-INF/validation.xml for XML based Validator configuration. 
+main> [2014-08-30 16:01:57] [ValidationXmlParser] [95] [DEBUG] No META-INF/validation.xml found. Using annotation based configuration only. 
+main> [2014-08-30 16:02:00] [DefaultTraversableResolver] [74] [DEBUG] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable. 
+main> [2014-08-30 16:02:00] [ConfigurationImpl] [120] [DEBUG] Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator 
+main> [2014-08-30 16:02:00] [ConfigurationImpl] [140] [DEBUG] Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory 
+main> [2014-08-30 16:02:00] [ConfigurationImpl] [154] [DEBUG] Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy22 
+main> [2014-08-30 16:02:00] [ValidationXmlParser] [88] [DEBUG] Trying to load META-INF/validation.xml for XML based Validator configuration. 
+main> [2014-08-30 16:02:00] [ValidationXmlParser] [95] [DEBUG] No META-INF/validation.xml found. Using annotation based configuration only. 
+main> [2014-08-30 16:02:17] [logging] [29] [DEBUG] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+main> [2014-08-30 16:02:17] [Version] [27] [INFO] HV000001: Hibernate Validator 5.0.3.Final 
+main> [2014-08-30 16:02:17] [DefaultTraversableResolver] [74] [DEBUG] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable. 
+main> [2014-08-30 16:02:17] [ConfigurationImpl] [120] [DEBUG] Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator 
+main> [2014-08-30 16:02:17] [ConfigurationImpl] [140] [DEBUG] Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory 
+main> [2014-08-30 16:02:17] [ConfigurationImpl] [154] [DEBUG] Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy22 
+main> [2014-08-30 16:02:17] [ValidationXmlParser] [88] [DEBUG] Trying to load META-INF/validation.xml for XML based Validator configuration. 
+main> [2014-08-30 16:02:17] [ValidationXmlParser] [95] [DEBUG] No META-INF/validation.xml found. Using annotation based configuration only. 
+main> [2014-08-30 16:02:20] [DefaultTraversableResolver] [74] [DEBUG] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable. 
+main> [2014-08-30 16:02:20] [ConfigurationImpl] [120] [DEBUG] Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator 
+main> [2014-08-30 16:02:20] [ConfigurationImpl] [140] [DEBUG] Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory 
+main> [2014-08-30 16:02:20] [ConfigurationImpl] [154] [DEBUG] Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy22 
+main> [2014-08-30 16:02:20] [ValidationXmlParser] [88] [DEBUG] Trying to load META-INF/validation.xml for XML based Validator configuration. 
+main> [2014-08-30 16:02:20] [ValidationXmlParser] [95] [DEBUG] No META-INF/validation.xml found. Using annotation based configuration only. 
+main> [2014-08-30 16:03:08] [logging] [29] [DEBUG] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+main> [2014-08-30 16:03:08] [Version] [27] [INFO] HV000001: Hibernate Validator 5.0.3.Final 
+main> [2014-08-30 16:03:08] [DefaultTraversableResolver] [74] [DEBUG] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable. 
+main> [2014-08-30 16:03:08] [ConfigurationImpl] [120] [DEBUG] Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator 
+main> [2014-08-30 16:03:08] [ConfigurationImpl] [140] [DEBUG] Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory 
+main> [2014-08-30 16:03:08] [ConfigurationImpl] [154] [DEBUG] Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy22 
+main> [2014-08-30 16:03:08] [ValidationXmlParser] [88] [DEBUG] Trying to load META-INF/validation.xml for XML based Validator configuration. 
+main> [2014-08-30 16:03:08] [ValidationXmlParser] [95] [DEBUG] No META-INF/validation.xml found. Using annotation based configuration only. 
+main> [2014-08-30 16:03:11] [DefaultTraversableResolver] [74] [DEBUG] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable. 
+main> [2014-08-30 16:03:11] [ConfigurationImpl] [120] [DEBUG] Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator 
+main> [2014-08-30 16:03:11] [ConfigurationImpl] [140] [DEBUG] Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory 
+main> [2014-08-30 16:03:11] [ConfigurationImpl] [154] [DEBUG] Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy22 
+main> [2014-08-30 16:03:11] [ValidationXmlParser] [88] [DEBUG] Trying to load META-INF/validation.xml for XML based Validator configuration. 
+main> [2014-08-30 16:03:11] [ValidationXmlParser] [95] [DEBUG] No META-INF/validation.xml found. Using annotation based configuration only. 
+main> [2014-08-30 16:04:36] [logging] [29] [DEBUG] Logging Provider: org.jboss.logging.Log4jLoggerProvider 
+main> [2014-08-30 16:04:36] [Version] [27] [INFO] HV000001: Hibernate Validator 5.0.3.Final 
+main> [2014-08-30 16:04:36] [DefaultTraversableResolver] [74] [DEBUG] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable. 
+main> [2014-08-30 16:04:36] [ConfigurationImpl] [120] [DEBUG] Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator 
+main> [2014-08-30 16:04:36] [ConfigurationImpl] [140] [DEBUG] Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory 
+main> [2014-08-30 16:04:36] [ConfigurationImpl] [154] [DEBUG] Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy25 
+main> [2014-08-30 16:04:36] [ValidationXmlParser] [88] [DEBUG] Trying to load META-INF/validation.xml for XML based Validator configuration. 
+main> [2014-08-30 16:04:36] [ValidationXmlParser] [95] [DEBUG] No META-INF/validation.xml found. Using annotation based configuration only. 
+main> [2014-08-30 16:04:39] [DefaultTraversableResolver] [74] [DEBUG] Cannot find javax.persistence.Persistence on classpath. Assuming non JPA 2 environment. All properties will per default be traversable. 
+main> [2014-08-30 16:04:39] [ConfigurationImpl] [120] [DEBUG] Setting custom MessageInterpolator of type org.springframework.validation.beanvalidation.LocaleContextMessageInterpolator 
+main> [2014-08-30 16:04:39] [ConfigurationImpl] [140] [DEBUG] Setting custom ConstraintValidatorFactory of type org.springframework.validation.beanvalidation.SpringConstraintValidatorFactory 
+main> [2014-08-30 16:04:39] [ConfigurationImpl] [154] [DEBUG] Setting custom ParameterNameProvider of type com.sun.proxy.$Proxy25 
+main> [2014-08-30 16:04:39] [ValidationXmlParser] [88] [DEBUG] Trying to load META-INF/validation.xml for XML based Validator configuration. 
+main> [2014-08-30 16:04:39] [ValidationXmlParser] [95] [DEBUG] No META-INF/validation.xml found. Using annotation based configuration only. 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [350] [DEBUG] Connection manager is shutting down 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [356] [DEBUG] Connection manager shut down 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [122] [DEBUG] CookieSpec selected: best-match 
+main> [2014-08-30 16:24:20] [RequestAuthCache] [75] [DEBUG] Auth cache not set in the context 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [219] [DEBUG] Connection request: [route: {s}->https://secure.devpia.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20] 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [250] [DEBUG] Connection leased: [id: 0][route: {s}->https://secure.devpia.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20] 
+main> [2014-08-30 16:24:20] [MainClientExec] [217] [DEBUG] Opening connection {s}->https://secure.devpia.com:443 
+main> [2014-08-30 16:24:20] [HttpClientConnectionOperator] [120] [DEBUG] Connecting to secure.devpia.com/221.143.40.11:443 
+main> [2014-08-30 16:24:20] [HttpClientConnectionOperator] [127] [DEBUG] Connection established 10.0.1.18:62997<->221.143.40.11:443 
+main> [2014-08-30 16:24:20] [MainClientExec] [238] [DEBUG] Executing request POST /Login/DoLogin.aspx HTTP/1.1 
+main> [2014-08-30 16:24:20] [MainClientExec] [243] [DEBUG] Target auth state: UNCHALLENGED 
+main> [2014-08-30 16:24:20] [MainClientExec] [249] [DEBUG] Proxy auth state: UNCHALLENGED 
+main> [2014-08-30 16:24:20] [headers] [124] [DEBUG] http-outgoing-0 >> POST /Login/DoLogin.aspx HTTP/1.1 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-0 >> User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-0 >> Content-Length: 33 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-0 >> Host: secure.devpia.com 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-0 >> Connection: Keep-Alive 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-0 >> Accept-Encoding: gzip,deflate 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 >> "POST /Login/DoLogin.aspx HTTP/1.1[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 >> "User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 >> "Content-Length: 33[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 >> "Host: secure.devpia.com[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 >> "[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [86] [DEBUG] http-outgoing-0 >> "flID=sungkipyung&flPASS=tjfla0702" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "Date: Sat, 30 Aug 2014 07:24:20 GMT[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "Server: Microsoft-IIS/6.0[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "X-AspNet-Version: 1.1.4322[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "Set-Cookie: ASP.NET_SessionId=h1wlsgy5y1b0d4j2mvtnqf55; path=/[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "Set-Cookie: DEVPIAID=; domain=.devpia.com; expires=Sat, 30-Aug-2014 07:24:20 GMT; path=/[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "Set-Cookie: devid=sungkipyung; domain=.devpia.com; path=/[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "Set-Cookie: cname=%bc%ba%b1%e2%c6%f2; domain=.devpia.com; path=/[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "Set-Cookie: cphone=010-2912-0702++; domain=.devpia.com; path=/[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "Set-Cookie: symKey=0021937272057A4C8DF772282C8ADC9701000000420B2324B58BB23F40E1CEF964CAF0D782E764B4074C999E1866D9B1652204BB41BBACFABFD31C049436ABB55E0E7061348CA57B39551AC366E0A3DBEF83817ECEE2C9ED5D69CDB3BA190CBC039D1A902D43EA81F2B410E8CB808837030CB7FFCE79227F0C81F611C2657833C994427BEB9AF2864E2390CC; domain=.devpia.com; path=/[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "Set-Cookie: Gubun=D; domain=.devpia.com; path=/[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "Cache-Control: private[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "Content-Type: text/html; charset=ks_c_5601-1987[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "Content-Length: 88[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-0 << "[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [86] [DEBUG] http-outgoing-0 << "<script type='text/javascript'>window.location.href = 'http://www.devpia.com/';</script>" 
+main> [2014-08-30 16:24:20] [headers] [113] [DEBUG] http-outgoing-0 << HTTP/1.1 200 OK 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << Date: Sat, 30 Aug 2014 07:24:20 GMT 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << Server: Microsoft-IIS/6.0 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << X-Powered-By: ASP.NET 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << X-AspNet-Version: 1.1.4322 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << Set-Cookie: ASP.NET_SessionId=h1wlsgy5y1b0d4j2mvtnqf55; path=/ 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << Set-Cookie: DEVPIAID=; domain=.devpia.com; expires=Sat, 30-Aug-2014 07:24:20 GMT; path=/ 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << Set-Cookie: devid=sungkipyung; domain=.devpia.com; path=/ 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << Set-Cookie: cname=%bc%ba%b1%e2%c6%f2; domain=.devpia.com; path=/ 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << Set-Cookie: cphone=010-2912-0702++; domain=.devpia.com; path=/ 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << Set-Cookie: symKey=0021937272057A4C8DF772282C8ADC9701000000420B2324B58BB23F40E1CEF964CAF0D782E764B4074C999E1866D9B1652204BB41BBACFABFD31C049436ABB55E0E7061348CA57B39551AC366E0A3DBEF83817ECEE2C9ED5D69CDB3BA190CBC039D1A902D43EA81F2B410E8CB808837030CB7FFCE79227F0C81F611C2657833C994427BEB9AF2864E2390CC; domain=.devpia.com; path=/ 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << Set-Cookie: Gubun=D; domain=.devpia.com; path=/ 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << Cache-Control: private 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << Content-Type: text/html; charset=ks_c_5601-1987 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-0 << Content-Length: 88 
+main> [2014-08-30 16:24:20] [MainClientExec] [267] [DEBUG] Connection can be kept alive indefinitely 
+main> [2014-08-30 16:24:20] [ResponseProcessCookies] [117] [DEBUG] Cookie accepted [ASP.NET_SessionId="h1wlsgy5y1b0d4j2mvtnqf55", version:0, domain:secure.devpia.com, path:/, expiry:null] 
+main> [2014-08-30 16:24:20] [ResponseProcessCookies] [117] [DEBUG] Cookie accepted [DEVPIAID="", version:0, domain:.devpia.com, path:/, expiry:Sat Aug 30 16:24:20 KST 2014] 
+main> [2014-08-30 16:24:20] [ResponseProcessCookies] [117] [DEBUG] Cookie accepted [devid="sungkipyung", version:0, domain:.devpia.com, path:/, expiry:null] 
+main> [2014-08-30 16:24:20] [ResponseProcessCookies] [117] [DEBUG] Cookie accepted [cname="%bc%ba%b1%e2%c6%f2", version:0, domain:.devpia.com, path:/, expiry:null] 
+main> [2014-08-30 16:24:20] [ResponseProcessCookies] [117] [DEBUG] Cookie accepted [cphone="010-2912-0702++", version:0, domain:.devpia.com, path:/, expiry:null] 
+main> [2014-08-30 16:24:20] [ResponseProcessCookies] [117] [DEBUG] Cookie accepted [symKey="0021937272057A4C8DF772282C8ADC9701000000420B2324B58BB23F40E1CEF964CAF0D782E764B4074C999E1866D9B16522...", version:0, domain:.devpia.com, path:/, expiry:null] 
+main> [2014-08-30 16:24:20] [ResponseProcessCookies] [117] [DEBUG] Cookie accepted [Gubun="D", version:0, domain:.devpia.com, path:/, expiry:null] 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [280] [DEBUG] Connection [id: 0][route: {s}->https://secure.devpia.com:443] can be kept alive indefinitely 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [286] [DEBUG] Connection released: [id: 0][route: {s}->https://secure.devpia.com:443][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20] 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [122] [DEBUG] CookieSpec selected: best-match 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [162] [DEBUG] Cookie [version: 0][name: Gubun][value: D][domain: .devpia.com][path: /][expiry: null] match [www.devpia.com:80/usercontrols/Pagelet/MessageReturn.aspx] 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [162] [DEBUG] Cookie [version: 0][name: cname][value: %bc%ba%b1%e2%c6%f2][domain: .devpia.com][path: /][expiry: null] match [www.devpia.com:80/usercontrols/Pagelet/MessageReturn.aspx] 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [162] [DEBUG] Cookie [version: 0][name: cphone][value: 010-2912-0702++][domain: .devpia.com][path: /][expiry: null] match [www.devpia.com:80/usercontrols/Pagelet/MessageReturn.aspx] 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [162] [DEBUG] Cookie [version: 0][name: devid][value: sungkipyung][domain: .devpia.com][path: /][expiry: null] match [www.devpia.com:80/usercontrols/Pagelet/MessageReturn.aspx] 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [162] [DEBUG] Cookie [version: 0][name: symKey][value: 0021937272057A4C8DF772282C8ADC9701000000420B2324B58BB23F40E1CEF964CAF0D782E764B4074C999E1866D9B1652204BB41BBACFABFD31C049436ABB55E0E7061348CA57B39551AC366E0A3DBEF83817ECEE2C9ED5D69CDB3BA190CBC039D1A902D43EA81F2B410E8CB808837030CB7FFCE79227F0C81F611C2657833C994427BEB9AF2864E2390CC][domain: .devpia.com][path: /][expiry: null] match [www.devpia.com:80/usercontrols/Pagelet/MessageReturn.aspx] 
+main> [2014-08-30 16:24:20] [RequestAuthCache] [75] [DEBUG] Auth cache not set in the context 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [219] [DEBUG] Connection request: [route: {}->http://www.devpia.com:80][total kept alive: 1; route allocated: 0 of 2; total allocated: 1 of 20] 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [250] [DEBUG] Connection leased: [id: 1][route: {}->http://www.devpia.com:80][total kept alive: 1; route allocated: 1 of 2; total allocated: 2 of 20] 
+main> [2014-08-30 16:24:20] [MainClientExec] [217] [DEBUG] Opening connection {}->http://www.devpia.com:80 
+main> [2014-08-30 16:24:20] [HttpClientConnectionOperator] [120] [DEBUG] Connecting to www.devpia.com/221.143.40.9:80 
+main> [2014-08-30 16:24:20] [HttpClientConnectionOperator] [127] [DEBUG] Connection established 10.0.1.18:62998<->221.143.40.9:80 
+main> [2014-08-30 16:24:20] [MainClientExec] [238] [DEBUG] Executing request GET /usercontrols/Pagelet/MessageReturn.aspx?Returnid=sungkipyung HTTP/1.1 
+main> [2014-08-30 16:24:20] [MainClientExec] [243] [DEBUG] Target auth state: UNCHALLENGED 
+main> [2014-08-30 16:24:20] [MainClientExec] [249] [DEBUG] Proxy auth state: UNCHALLENGED 
+main> [2014-08-30 16:24:20] [headers] [124] [DEBUG] http-outgoing-1 >> GET /usercontrols/Pagelet/MessageReturn.aspx?Returnid=sungkipyung HTTP/1.1 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-1 >> User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-1 >> Host: www.devpia.com 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-1 >> Connection: Keep-Alive 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-1 >> Cookie: Gubun=D; cname=%bc%ba%b1%e2%c6%f2; cphone=010-2912-0702++; devid=sungkipyung; symKey=0021937272057A4C8DF772282C8ADC9701000000420B2324B58BB23F40E1CEF964CAF0D782E764B4074C999E1866D9B1652204BB41BBACFABFD31C049436ABB55E0E7061348CA57B39551AC366E0A3DBEF83817ECEE2C9ED5D69CDB3BA190CBC039D1A902D43EA81F2B410E8CB808837030CB7FFCE79227F0C81F611C2657833C994427BEB9AF2864E2390CC 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-1 >> Cookie2: $Version=1 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-1 >> Accept-Encoding: gzip,deflate 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 >> "GET /usercontrols/Pagelet/MessageReturn.aspx?Returnid=sungkipyung HTTP/1.1[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 >> "User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 >> "Host: www.devpia.com[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 >> "Cookie: Gubun=D; cname=%bc%ba%b1%e2%c6%f2; cphone=010-2912-0702++; devid=sungkipyung; symKey=0021937272057A4C8DF772282C8ADC9701000000420B2324B58BB23F40E1CEF964CAF0D782E764B4074C999E1866D9B1652204BB41BBACFABFD31C049436ABB55E0E7061348CA57B39551AC366E0A3DBEF83817ECEE2C9ED5D69CDB3BA190CBC039D1A902D43EA81F2B410E8CB808837030CB7FFCE79227F0C81F611C2657833C994427BEB9AF2864E2390CC[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 >> "Cookie2: $Version=1[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 >> "[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "HTTP/1.1 200 OK[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "Cache-Control: private[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "Content-Type: text/html; charset=ks_c_5601-1987[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "Content-Encoding: gzip[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "Vary: Accept-Encoding[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "Server: Microsoft-IIS/7.5[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "X-AspNet-Version: 1.1.4322[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "Set-Cookie: ASP.NET_SessionId=s5ils3umesh5pnigu3cjhr55; path=/[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "X-Powered-By: ASP.NET[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "X-UA-Compatible: IE=5[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "Date: Sat, 30 Aug 2014 07:24:20 GMT[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "Content-Length: 1433[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x4][0x0][0xed][0xbd][0x7]`[0x1c]I[0x96]%&/m[0xca]{J[0xf5]J[0xd7][0xe0]t[0xa1][0x8][0x80]`[0x13]$[0xd8][0x90]@[0x10][0xec][0xc1][0x88][0xcd][0xe6][0x92][0xec][0x1d]iG#)[0xab]*[0x81][0xca]eVe]f[0x16]@[0xcc][0xed][0x9d][0xbc][0xf7][0xde]{[0xef][0xbd][0xf7][0xde]{[0xef][0xbd][0xf7][0xba];[0x9d]N'[0xf7][0xdf][0xff]?\fd[0x1]l[0xf6][0xce]J[0xda][0xc9][0x9e]![0x80][0xaa][0xc8][0x1f]?~|[0x1f]?"~[0xe3][0xe4][0xf1][0xef][0xfa][0xf4][0xcb][0x93]7[0xbf][0xcf][0xcb][0xd3][0xf4][0xdb]o[0xbe]x[0x9e][0xbe][0xfc][0xea][0xc9][0xf3][0xb3][0x93][0xf4][0xa3][0xed][0xbb]w[0xbf]{[0xef][0xe4][0xee][0xdd][0xa7]o[0x9e][0xca][0x17][0xfb][0xe3][0x9d][0xf4]M[0x9d]-[0x9b][0xa2]-[0xaa]eV[0xde][0xbd]{[0xfa][0xe2][0xa3][0xf4][0x88][0x0][0xe0]k[0xfa][0xf9]c[0x8f][0xbf]}z[0xfc][0x14][0xbf][0xfc][0xd8][0xe3][0xb6]h[0xcb][0xfc][0xe8][0x1f][0xf9]g[0xfe][0xe1][0xff][0xf5][0xef][0xf9][0xbb][0xfe][0xd6][0xbf][0xf7]o[0xfe]O[0x1e][0xfd][0xed][0xf9][0xdf][0xf3][0xdf][0xfc][0x93][0xff][0xe4]?[0xf0]O<[0xbe]+_q[0xab]E[0xde]f[0xe9]2[[0xe4][0x9f]}[0xf4][0xf9][0xe9][0x8b][0xd3]W[0xc7]o[0xbe]|[0xf5]QzR-[0xdb]|[0xd9]~[0xf6][0xd1][0x17][0xc5][0xb4][0xae][0x9a][0xea][0xbc]M[0xb2]h[0xd6]Y[0x99][0xbe]n[0xd7][0xb3][0xa2]J[0xc7]/N[0xdf][0xa4][0xf][0xc6][0xbb][0x1f][0xf5][0xa0][0x9c]|[0xf9][0xf4][0xf4][0xf7]~[0xfc][0xe2][0xf3][0xaf][0x8e]??[0xf5] [0x9d][0xfc]x[0xbf][0xed]e[0xf3][0xfb][0xcf][0xf2][0xf3]l][0xb6]'eA[0xad]^O[0xeb]b[0xd5]~[0x94]N[0xcd]K[0xdf][0xc9].3[0xfd]0[0xf6]r[0x9b][0xd5][0x17]9[0xbd]5[0xcf][0x17][0x99][0xf7][0xd6][0xbc]mW[0x8f][0xee][0xde]m[0xf8][0xf3]f[0xbc]0c[0x18]O[0xab][0xc5][0xdd][0x82][0x1a][0x95]e[0xd1][0xe4][0xcb]&[0xbf][[0xe4][0xf7][0x15]pY,[0xdf][0xa6][0xf3]:?[0xb7][0xaf][0x9f]-[0xb2][0x8b]|<[0xcb]/WE[0xc6]o[0xbe][0xc8][0xaf][0x9e][0xf2]_w[0x17][0x93][0xb2][0xba][0xb8];m[0x1a][0xf9]mL[0xbf]}[0x94][0xd6]y[0xf9][0xd9]GM{][0xe6][0xcd]<[0xcf]i[0x14][0xed][0xf5][0x8a][0xd0]l[0xf3]w-[0x9a]j?[\r][0x8f]&-[0xb3][0xe5][0xc5][0x9a][0xe0][0xf6][0xd1]O[0xd3][0x10][0xe5]Ciq[0xbe]^N1[0xbb][0xe9][0xeb][0xbc][0xcc][0xa7][0xed][0xef]2[0xbb]u[0x7]_[0xfc]b[0xfc][0xf3]c[0x97]Ymh[0x9a]~[0x96][0xce][0xaa][0xe9]zA[0xbf][0x8e][0xb3][0xb2][0x1c][0xb7][0xef][0xda]/[0xf2][0xa6]![0xa8][0x87][0x89]m[0xbb]h.[0xa8][0xdd]G[0x1f][0x1d][0xe2][0x13][0xfc][0xff][0xc7][0x8a][0xf3]-[0x5]0[0xbe][0xcc][0xca]u[0x9e]~[0x86][0xef][0xb9][0xb][0xed][0xe3][0xc7][0xf0][0xd2]'[0xf4])[0x98]'[0xfd][[0xff][0xde][0xf0][0xbf][0xfd][0x87][0xfe][0xde][0xf4][0x1f][0xfa][0xd7][0xfe][0xce][0xe4][0x9f][0xfc][0xb7][0xd2][0xf8][0xdf][0xf8][0xfb][0xfe][0xbe][0xf0]?[0xfb]][0xdf][0xf6][0xf7]][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "[0xcc][0x1f][0xfb]%[0xfc]/[0xff]C[0xa0][0xf1][0xea][0xef]J[0xaf][0x86][0x0][0xaf][0x8a][0xe5][0xac][0xba]",[0xf3][0xba]E[0x93];[0xf2][0xea][0x8f][0xd5]y[0xbb][0xae][0x97][0xe9]yV6[0xf9][0xa1][0xc0][0x10]p9}[0xc0][0xbf]([0x0]m[0xd8][0xd6][0xeb]\^[0xfd]%[0xd2]%[0xb7]~LS[\r][0x2][0x82]~[0x8f][0xef][0x1a][0x9]x<[0xa9]f[0xd7][0xf8][0xe5][0xc7][0x1e][0x9f]W[0xf5]B[0xb9][0xe6][0x19][0xfd][0xba][0xfb]QJ|4[0xaf]f[0x9f]}[0xb4][0xaa][0x1a][0x9a][0xa9][0x8c])N[0xdc].[0xe4]{[0xc5][0x9d][0x8d][0xb3]f[0xf5][0xee][0xf7][0x90][0xdf][0x8b][0xd9]g[0xcd]zy[0xf1][0xb6]X][0xd3][0x8f][0x8f]R[0xfa][!Q[0x7][0x8f][0x8b][0xe5]j[0xdd][0xea]t[0xcf][0x8b][0xd9],_~[0xa4][0xbd][0xfd][0xfe][0xbf][0xff]O[0x9e][0x9d]~[0xf7][0xf5][0x9b][0xe3]7$[\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-1 << "L[0xed][0xcf]>[0x9a]=[0xbd]j[0xbf][0xf8][0xe9][0xe9][0xbb][0x17]O[0xcf][0xae][0xbe]|[0xfa][0xc5][0xf5][0x97][0xf7]~[0xe2][0xe0][0xcb][0xbd][0xab][0x83][0xec][0xcd][0xd5][0xd5][0xcb][0x9f]n>[0xc1][0xef][0xd4][0xe6][0xc1][0xe4][0xe9][0xbb][0xd5][0xcb][0xa7][0xa7][0xf4][0xf7][0xdb][0x83][0x17]o[0xf6][0x1f][0xd0][0xf7][0xf7][0xdc][0xf7][0xef][0xae]^~~u[0xf0][0x93][0x9f][0xff][0xe4][0xfe][0xec][0xa9]|6[0xbd][0xf7][0x93][0xeb][0x9f][0xda]kW[0xd3]o[0x97][0xbb][0x93][0xc5][0xb4]zp[0xf6][0xfa][0xdd][0xa7]uq[0xf5][0xe0][0xf7][0xf9][0xe4];[0xbf][0xd7][0x9b][0xe6][0x13]z[0xf7][0xc1][0xcb][0x9f]nw^~[0xfb][0xf8][0xe0][0xcb]{[0xc7][0x7][0x4][0xff]r[0xf2][0xf6]E[0x93]}[0xf7]E[0xfd][0xe5][0xf][0xf6][0xd1][0xdf][0xf5]O[0xfd][0xde][0xaf]v[0xa7][0x8b][0xfd][0x8b][0xaf][0xf6]~[0xb2][0xf9][0xa9][0xef][0xbe][0xd8][0xf9][0xbd]w^T[0xd9][0xf5][0xc5][0xea][0xf7]~[0x8a]w[0xf7]?[0xf9][0xf2][0x7][0xd4][0x17][0xe1];}[0xfa][0xae]y[0xf9][0xec]U[0x99][0xfb]'[0xe8][0xf3][0xb6]y[0xf9][0xed][0x17][0xd4][0xe7][0xac][0xce]~[0xef]'[0xf7]g[0xdf][0xbd][0xbf]$x[0xd2][0x96][0xd2][0xff][0x9][0xbf][0x9f]X[0xfe][0xe4][0xce][0xec][0xf3][0x87][0xeb]/[0xe8][0xf3][0x97][0x17][0x9f]}[0xf6]Qz[0x97][0x88][0x87][0xf9]!][0x95]M[0xca]<[0xbd]*f[0xed][0xfc][0xb3][0x8f][0xee][0xed][0xee]}[0x94]N[0xaa]z[0x96][0xd7][0x9f]}[0xb4]CrM[0xf2][0xda][0xac][0xb2]i[0xb1][0xbc][0xb0][0xaf][0xb2][0xd9]L[0xff]& [0x4][0x82]`[0xd4][0xfa][0x1b][0xfd]:;z\,.[0xd2][0xa6][0x9e][0xd2][0x8c][0xdc]R[0x9c][0x17][0xa4]O[0x8a]vgo|Q[0x9c][0x14][0xe0]2[0xcf][0x8b][0x8b]9[0xe9][0x95]{[0xf]>:"[0xe5]9[0xd3]~[0xe8]W[0xd3]e[0xd8]y[0xca]Z[0xe0][0xb3][0x8f]^[0x1e]?}z[0xf6][0xe2][0xf3][0xed]Wg[0x9f][0xfb][0xcd][0xa3][0xdd][0x9d][0xd5][0xbb][0xc3][0xd4]|[0xf6][0xfc][0xf4]Y[0xf7][0xa3]'_[0xbe]y[0xf3][0xe5][0x17][0x9d][0xf][0xdf]|[0xf9][0x92]?[0xa1][0x9e][0xdf]{D[0x93][0xf5][0xef][0xbf][0x10][0x8e][0xe][0xc6][0xb4]K44C[0xda][0xdd][0xfd]H[0xf1][0xfe][0xb1][0x1f][0x9b][0x83][0xc8][0x84][0xf6]=[0x12][0x88][0xb2][0xb8] y[0xc8]&[0xcd][0x17][0xc4][0xcf]e[0xfe][0xd1][0xd1][0xdf][0xf7][0xbf][0xfe][0xfd][0xff][0xf8]?[0xf4][0xef][0xa4]gO[0xd3]G[0xe6][0x5]O"[0xb6][0xfe][0xbe][0xbf][0xe7]o[0xfe]O[0xfe][0x89][0xff][0xe5][0xe][0x91][0xe4][0xe7][0x86]:[\n]" 
+main> [2014-08-30 16:24:20] [wire] [86] [DEBUG] http-outgoing-1 << "[0xfe][0xc7][0x14][0xf1])i[0xb7][0xbc]&[0xd3][0xf8][0x18][0xea]7[0xab]sc4[0x9c][0x8e][0x14]![0xf6][0xff][0x9e][0x96]Y[0xd3]|[0xf6][0x11]K[0xf3][0xe][0x11][0xe1]g[0x1][0xcf]C%[0xfc][0xa3][0xdd][0xfb][0xfc][0x17][0xcf][0xc8][0xa3][0x87][0xf]w[0x9a][0xde][0xbb][0x6]U[0xfc]z3[0x15][0x5][0xd0]g[0x1f][0xed][0xd3]l[0x86][0xa3]&N[0xc1][0x10]T![0x15][0xe0][0x12][0xa3][0x8f][0x9e][0xac][0xdb][0xb6]Z[0xd2][0xd8]0v[0xfb][0xc7][0xa5]N[0xfc][0xfd][0x8f][0xd2]jI[0x96]x[0xfa][0xf6][0xb3][0x8f]T[0xe1][0xfa]F[0xe8][0x90]H[0xf2]^[0xec][0xd7].2[0xb3][0xb3]E3[0xfe][0xfc][0xec][0x19][0xb0]$t[0x3][0xc9][0xbe][0x1b][0x1f]*[0xfd][0x6]} [0xe0][0x9f][0xc7]w[0xa1][0xc1][0xf1][0xf7][0xe3][0xbb][0xaa][0xd5]I[0xcf][0x8b][0xcb][0xf3][0xff][0x0][0x9c][0x12][0xf](>[0x9][0x0][0x0]" 
+main> [2014-08-30 16:24:20] [headers] [113] [DEBUG] http-outgoing-1 << HTTP/1.1 200 OK 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-1 << Cache-Control: private 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-1 << Content-Type: text/html; charset=ks_c_5601-1987 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-1 << Content-Encoding: gzip 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-1 << Vary: Accept-Encoding 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-1 << Server: Microsoft-IIS/7.5 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-1 << X-AspNet-Version: 1.1.4322 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-1 << Set-Cookie: ASP.NET_SessionId=s5ils3umesh5pnigu3cjhr55; path=/ 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-1 << X-Powered-By: ASP.NET 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-1 << X-UA-Compatible: IE=5 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-1 << Date: Sat, 30 Aug 2014 07:24:20 GMT 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-1 << Content-Length: 1433 
+main> [2014-08-30 16:24:20] [MainClientExec] [267] [DEBUG] Connection can be kept alive indefinitely 
+main> [2014-08-30 16:24:20] [ResponseProcessCookies] [117] [DEBUG] Cookie accepted [ASP.NET_SessionId="s5ils3umesh5pnigu3cjhr55", version:0, domain:www.devpia.com, path:/, expiry:null] 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [122] [DEBUG] CookieSpec selected: best-match 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [162] [DEBUG] Cookie [version: 0][name: ASP.NET_SessionId][value: s5ils3umesh5pnigu3cjhr55][domain: www.devpia.com][path: /][expiry: null] match [www.devpia.com:80/usercontrols/Pagelet/MessageReturn.aspx] 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [162] [DEBUG] Cookie [version: 0][name: Gubun][value: D][domain: .devpia.com][path: /][expiry: null] match [www.devpia.com:80/usercontrols/Pagelet/MessageReturn.aspx] 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [162] [DEBUG] Cookie [version: 0][name: cname][value: %bc%ba%b1%e2%c6%f2][domain: .devpia.com][path: /][expiry: null] match [www.devpia.com:80/usercontrols/Pagelet/MessageReturn.aspx] 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [162] [DEBUG] Cookie [version: 0][name: cphone][value: 010-2912-0702++][domain: .devpia.com][path: /][expiry: null] match [www.devpia.com:80/usercontrols/Pagelet/MessageReturn.aspx] 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [162] [DEBUG] Cookie [version: 0][name: devid][value: sungkipyung][domain: .devpia.com][path: /][expiry: null] match [www.devpia.com:80/usercontrols/Pagelet/MessageReturn.aspx] 
+main> [2014-08-30 16:24:20] [RequestAddCookies] [162] [DEBUG] Cookie [version: 0][name: symKey][value: 0021937272057A4C8DF772282C8ADC9701000000420B2324B58BB23F40E1CEF964CAF0D782E764B4074C999E1866D9B1652204BB41BBACFABFD31C049436ABB55E0E7061348CA57B39551AC366E0A3DBEF83817ECEE2C9ED5D69CDB3BA190CBC039D1A902D43EA81F2B410E8CB808837030CB7FFCE79227F0C81F611C2657833C994427BEB9AF2864E2390CC][domain: .devpia.com][path: /][expiry: null] match [www.devpia.com:80/usercontrols/Pagelet/MessageReturn.aspx] 
+main> [2014-08-30 16:24:20] [RequestAuthCache] [75] [DEBUG] Auth cache not set in the context 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [219] [DEBUG] Connection request: [route: {}->http://www.devpia.com:80][total kept alive: 1; route allocated: 1 of 2; total allocated: 2 of 20] 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [250] [DEBUG] Connection leased: [id: 2][route: {}->http://www.devpia.com:80][total kept alive: 1; route allocated: 2 of 2; total allocated: 3 of 20] 
+main> [2014-08-30 16:24:20] [MainClientExec] [217] [DEBUG] Opening connection {}->http://www.devpia.com:80 
+main> [2014-08-30 16:24:20] [HttpClientConnectionOperator] [120] [DEBUG] Connecting to www.devpia.com/221.143.40.9:80 
+main> [2014-08-30 16:24:20] [HttpClientConnectionOperator] [127] [DEBUG] Connection established 10.0.1.18:62999<->221.143.40.9:80 
+main> [2014-08-30 16:24:20] [MainClientExec] [238] [DEBUG] Executing request POST /usercontrols/Pagelet/MessageReturn.aspx?Returnid=sungkipyung HTTP/1.1 
+main> [2014-08-30 16:24:20] [MainClientExec] [243] [DEBUG] Target auth state: UNCHALLENGED 
+main> [2014-08-30 16:24:20] [MainClientExec] [249] [DEBUG] Proxy auth state: UNCHALLENGED 
+main> [2014-08-30 16:24:20] [headers] [124] [DEBUG] http-outgoing-2 >> POST /usercontrols/Pagelet/MessageReturn.aspx?Returnid=sungkipyung HTTP/1.1 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-2 >> Host: www.devpia.com 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-2 >> User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-2 >> Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-2 >> Accept-Language: en-US,en;q=0.5 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-2 >> Set-Cookie: Gubun=D; domain=.devpia.com; path=/ 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-2 >> Connection: keep-alive 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-2 >> Referer: http://www.devpia.com/usercontrols/Pagelet/MessageReturn.aspx?Returnid=sungkipyung 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-2 >> Content-Type: application/x-www-form-urlencoded 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-2 >> Content-Length: 357 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-2 >> Cookie: ASP.NET_SessionId=s5ils3umesh5pnigu3cjhr55; Gubun=D; cname=%bc%ba%b1%e2%c6%f2; cphone=010-2912-0702++; devid=sungkipyung; symKey=0021937272057A4C8DF772282C8ADC9701000000420B2324B58BB23F40E1CEF964CAF0D782E764B4074C999E1866D9B1652204BB41BBACFABFD31C049436ABB55E0E7061348CA57B39551AC366E0A3DBEF83817ECEE2C9ED5D69CDB3BA190CBC039D1A902D43EA81F2B410E8CB808837030CB7FFCE79227F0C81F611C2657833C994427BEB9AF2864E2390CC 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-2 >> Cookie2: $Version=1 
+main> [2014-08-30 16:24:20] [headers] [127] [DEBUG] http-outgoing-2 >> Accept-Encoding: gzip,deflate 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "POST /usercontrols/Pagelet/MessageReturn.aspx?Returnid=sungkipyung HTTP/1.1[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "Host: www.devpia.com[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "User-Agent: Mozilla/5.0 (Windows NT 5.1; rv:31.0) Gecko/20100101 Firefox/31.0[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "Accept-Language: en-US,en;q=0.5[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "Set-Cookie: Gubun=D; domain=.devpia.com; path=/[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "Connection: keep-alive[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "Referer: http://www.devpia.com/usercontrols/Pagelet/MessageReturn.aspx?Returnid=sungkipyung[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "Content-Type: application/x-www-form-urlencoded[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "Content-Length: 357[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "Cookie: ASP.NET_SessionId=s5ils3umesh5pnigu3cjhr55; Gubun=D; cname=%bc%ba%b1%e2%c6%f2; cphone=010-2912-0702++; devid=sungkipyung; symKey=0021937272057A4C8DF772282C8ADC9701000000420B2324B58BB23F40E1CEF964CAF0D782E764B4074C999E1866D9B1652204BB41BBACFABFD31C049436ABB55E0E7061348CA57B39551AC366E0A3DBEF83817ECEE2C9ED5D69CDB3BA190CBC039D1A902D43EA81F2B410E8CB808837030CB7FFCE79227F0C81F611C2657833C994427BEB9AF2864E2390CC[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "Cookie2: $Version=1[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "Accept-Encoding: gzip,deflate[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 >> "[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [86] [DEBUG] http-outgoing-2 >> "__VIEWSTATE=dDwtMjcxNDIwODMyO3Q8O2w8aTwwPjs%2BO2w8dDw7bDxpPDE%2BO2k8NT47aTw3Pjs%2BO2w8dDxwPGw8VGV4dDs%2BO2w8c3VuZ2tpcHl1bmco7ISx6riw7Y%2BJKTs%2BPjs7Pjt0PHA8O3A8bDxvbkNsaWNrOz47bDxyZXR1cm4gU2VsZWN0X0NoaygpXDs7Pj4%2BOzs%2BO3Q8cDxsPFRleHQ7PjtsPHN1bmdraXB5dW5nOz4%2BOzs%2BOz4%2BOz4%2BO2w8QnV0dG9uMzs%2BPg%3D%3D&txtMessage=hello+world3&Button3.x=101&Button3.y=22" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "HTTP/1.1 200 OK[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "Cache-Control: private[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "Content-Type: text/html; charset=ks_c_5601-1987[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "Content-Encoding: gzip[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "Vary: Accept-Encoding[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "Server: Microsoft-IIS/7.5[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "X-AspNet-Version: 1.1.4322[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "X-Powered-By: ASP.NET[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "X-UA-Compatible: IE=5[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "Date: Sat, 30 Aug 2014 07:24:20 GMT[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "Content-Length: 1492[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "[\r][\n]" 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x4][0x0][0xed][0xbd][0x7]`[0x1c]I[0x96]%&/m[0xca]{J[0xf5]J[0xd7][0xe0]t[0xa1][0x8][0x80]`[0x13]$[0xd8][0x90]@[0x10][0xec][0xc1][0x88][0xcd][0xe6][0x92][0xec][0x1d]iG#)[0xab]*[0x81][0xca]eVe]f[0x16]@[0xcc][0xed][0x9d][0xbc][0xf7][0xde]{[0xef][0xbd][0xf7][0xde]{[0xef][0xbd][0xf7][0xba];[0x9d]N'[0xf7][0xdf][0xff]?\fd[0x1]l[0xf6][0xce]J[0xda][0xc9][0x9e]![0x80][0xaa][0xc8][0x1f]?~|[0x1f]?"[0x1e]7[0xd3][0xba]X[0xb5]GY[0x99][0xd7][0xed][0xd6][0xc7][0xd7][0xf0][0xf7][0xfd]}[0xff][0xf0][0xff][0xfa]7[0xfd][0xc5][0xe9][0xdf][0xf7][0xf7][0xfc]M[0xff][0xdb]?[0xf4][0xab][0xff][0xa1][0xbf][0xeb][0xef][0xfc][0x17][0xd2][0xbf][0xe7][0xef][0xfa][[0xff][0xde][0xf8]o[0xfd][0xfb][0xff][0xa1][0xbf][0xed]_[0xfc][0xdb][0xfe][0xed][0x8f][0xef][0x1c]^[0x15][0xcb]Yu5[0x9e][0x96]U[0x93]o[0xdd]9||W![0xfc][0xc6][0xc9][0xe3][0xdf][0xf5][0xe9][0x97]'o~[0x9f][0x97][0xa7][0xe9][0xb7][0xdf]|[0xf1]<}[0xf9][0xd5][0x93][0xe7]g'[0xe9]G[0xdb]w[0xef]~[0xf7][0xde][0xc9][0xdd][0xbb]O[0xdf]<[0x95]/[0xf6][0xc7];[0xe9][0x9b]:[6E[T[0xcb][0xac][0xbc]{[0xf7][0xf4][0xc5]G)[0x0][0xe0]k[0xfa][0xf9]c[0x8f][0xbf]}z[0xfc][0x14][0xbf][0xfc][0xd8][0xe3][0xb6]h[0xcb][0xfc][0xe8][0x1f][0xf9]g[0xfe][0xe1][0xff][0x15]x[0xfc][0xcd][0xff][0xc9][0xa3][0xbf][0xfd]/[0xff]{[0xfe][0x9b][0xf2][0x9f][0xfc][0x7][0xfe][0x89][0xc7]w[0xe5]+n[0xb5][0xc8][0xdb],]f[0x8b][0xfc][0xb3][0x8f]>?}q[0xfa][0xea][0xf8][0xcd][0x97][0xaf]>JO[0xaa]e[0x9b]/[0xdb][0xcf]>[0xfa][0xa2][0x98][0xd6]US[0x9d][0xb7][0xe9]O[0x16][0xcd]:+[0xd3][0xd7][0xed]zVT[0xe9][0xf8][0xc5][0xe9][0x9b][0xf4][0xc1]x[0xf7][0xa3][0x1e][0x94][0x93]/[0x9f][0x9e][0xfe][0xfe][0xcf][0x8f]_|[0xfe][0xd5][0xf1][0xe7][0xa7][0x1e][0xa4][0x93][0x1f][0xef][0xb7][0xbd]l~[0xff]Y~[0x9e][0xad][0xcb][0xf6][0xa4],[0xa8][0xd5]k&[0xc8]G[0xe9][0xd4][0xbc][0xf4][0x9d][0xec]2[0xd3][0xf]c/[0xb7]Y}[0x91][0xd3][[0xf3]|[0x91]yo[0xcd][0xdb]v[0xf5][0xe8].[0x91][0x17][0x9f]7[0xe3][0x85][0x19][0xc3]xZ-[0xee][0x16][0xd4][0xa8],[0x8b]&_6[0xf9][0xdd]"[0xbf][0xaf][0x80][0xcb]b[0xf9]6[0x9d][0xd7][0xf9][0xb9]}[0xfd]l[0x91]][0xe4][0xe3]Y~[0xb9]*2~[0xf3]E~[0xf5][0x94][0xff][0xba][0xbb][0x98][0x94][0xd5][0xc5][0xdd]i[0xd3][0xc8]oc[0xfa][0xed][0xa3][0xb4][0xce][0xcb][0xcf]>j[0xda][0xeb]2o[0xe6]yN[0xa3]h[0xaf]W[0x84]f[0x9b][0xbf]k[0xd1]T[0xfb][0x91]9O[0xcb]ly[0xb1]&[0xf8][0x9f]}[0xf4][0xd3]4D[0xf9]PZ[0x9c][0xaf][0x97]S[0xcc]n[0xfa]:/[0xf3]i[0xfb][0xfb][0x9f][0xcc][0xdf]n[0xdd][0xc1][0x17][0xbf][0x18][0xff][0xfc][0x18][0xff]s[0x99][0xd5][0xe9][0xa2][0xb9]H?K?[0xfa][0xe8][0x10][0x9f][0xe0][0xff]?V[0x9c]o)[0xb5][0xc7][0x97]Y[0xb9][0xce][0xd3][0xcf][0xf0]=[0xbf][0xab]/[0xff][0x18]^[0xfa][0x84]>[0x5]W[0xa4][0xeb][0xdf][0xfb][0xf][0xfe][0xb7][0xff][0xd0][0xdf][0x9b][0xfe]C[0xff][0xda][0xdf][0xf9][0x8f][0xfc][0x93][0xff]V[0xfa][0xf][0xff][0x1b][0xdf][0xdf][0xf7][0xf][0xfe]g[0xbf][0xeb][0xef][0xdb][0xfe][0xbe]K[0x81][0xf9]c[0xbf][0x84][0xff][0xe5][0x8]4^[0xfd]][0xe9][0xd5][0x10][0xa0][0xf2][0xb4][0x8][0x1]5[0xb9]#[0xaf][0xfe]X[0x9d][0xb7][0xeb]z[0x99][0x9e]ge[0x93][0x1f][\n]" 
+main> [2014-08-30 16:24:20] [wire] [86] [DEBUG] http-outgoing-2 << "[0xc][0x1][0x97][0xd3][0x7][0xfc][0x8b][0x2][0xd0][0x86]m[0xbd][0xce][0xe5][0xd5]_"]rkOD[0xe8]w[0xc3][0xda][0x8f]'[0xd5][0xec][0x1a][0xbf][0xfc][0xd8][0xe3][0xf3][0xaa]^(;<[0xa3]_w?J[0x89]A[0xe6][0xd5][0xec][0xb3][0x8f]VUCS[0x90]1)[0x89][0x8d][0xf3][0xa6]!j[0xbf][0xe2][0xce][0xc6]Y[0xb3]z[0xf7]{[0xc8][0xef][0xc5][0xec][0xb3]f[0xbd][0xbc]x[[0xac][0xae][0xe9][0xc7]G)[0xfd][0xad][0x90][0xa8][0x83][0xc7][0xc5]r[0xb5]nu[0x1e][0xe7][0xc5]l[0x96]/?[0xd2][0xde]~[0xff][0xdf][0xff]'[0xcf]N[0xbf][0xfb][0xfa][0xcd][0xf1][0x1b][0xe2]q[0xa6][0xf6]g[0x1f][0xcd][0x9e]^[0xb5]_[0xfc][0xf4][0xf4][0xdd][0x8b][0xa7]gW_>[0xfd][0xe2][0xfa][0xcb]{?q[0xf0][0xe5][0xde][0xd5]A[0xf6][0xe6][0xea][0xea][0xe5]O7[0x9f][0xe0]wj[0xf3]`[0xf2][0xf4][0xdd][0xea][0xe5][0xd3]S[0xfa][0xfb][0xed][0xc1][0x8b]7[0xfb][0xf][0xe8][0xfb]{[0xee][0xfb]wW/?[0xbf]:[0xf8][0xc9][0xcf]r[0xf6]T>[0x9b][0xde][0xfb][0xc9][0xf5]O[0xed][0xb5][0xab][0xe9][0xb7][0xcb][0xdd][0xc9]bZ=8{[0xfd][0xee][0xd3][0xba][0xb8]z[0xf0][0xfb]|[0xf2][0x9d][0xdf][0xeb]M[0xf3][0x9][0xbd][0xfb][0xe0][0xe5]O[0xb7];/[0xbf]}|[0xf0][0xe5][0xbd][0xe3][0x3][0x82]9y[0xfb][0xa2][0xc9][0xbe][0xfb][0xa2][0xfe][0xf2][0x7][0xfb][0xe8][0xef][0xfa][0xa7]~[0xef]W[0xbb][0xd3][0xc5][0xfe][0xc5]W{?[0xd9][0xfc][0xd4]w_[0xec][0xfc][0xde];/[0xaa][0xec][0xfa]b[0xf5]{?[0xc5][0xbb][0xfb][0x9f]|[0xf9][0x3][0xea][0x8b][0xf0][0x9d]>}[0xd7][0xbc]|[0xf6][0xaa][0xcc][0xbf][0xfd][0x13][0xf4]y[0xdb][0xbc][0xfc][0xf6][0xb][0xea]sVg[0xbf][0xf7][0x93][0xfb][0xb3][0xef][0xde]_[0x12]<i[0xcb]?[0xe9][0xff][0x84][0xdf]O,rg[0xf6][0xf9][0xc3][0xf5][0x17][0xf4][0xf9][0xcb][0x8b][0xcf]>[0xfb]([0xbd]K[0xc4][0xc3][0xfc][0x90][0x12][0xca]&e[0x9e]^[0x15][0xb3]v[0xfe][0xd9]G[0xf7]v[0xf7]>J'U=[0xcb][0xeb][0xcf]>[0xda]![0x81]%AlV[0xd9][0xb4]X^[0xd8][0xbf]W[0xd9]l[0xa6][0x13][0x10][0x2]A0j[0xfd][0x8d]~[0x9d][0x1d]=.[0x16][0x17]iSOiFn)[0xa7][0xb]R[0x14]E[0xbb][0xb3]7[0xbe](" 
+main> [2014-08-30 16:24:20] [headers] [113] [DEBUG] http-outgoing-2 << HTTP/1.1 200 OK 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-2 << Cache-Control: private 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-2 << Content-Type: text/html; charset=ks_c_5601-1987 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-2 << Content-Encoding: gzip 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-2 << Vary: Accept-Encoding 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-2 << Server: Microsoft-IIS/7.5 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-2 << X-AspNet-Version: 1.1.4322 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-2 << X-Powered-By: ASP.NET 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-2 << X-UA-Compatible: IE=5 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-2 << Date: Sat, 30 Aug 2014 07:24:20 GMT 
+main> [2014-08-30 16:24:20] [headers] [116] [DEBUG] http-outgoing-2 << Content-Length: 1492 
+main> [2014-08-30 16:24:20] [MainClientExec] [267] [DEBUG] Connection can be kept alive indefinitely 
+main> [2014-08-30 16:24:20] [wire] [72] [DEBUG] http-outgoing-2 << "[0xce]?[\n]" 
+main> [2014-08-30 16:24:20] [wire] [86] [DEBUG] http-outgoing-2 << "p[0x99][0xe7][0xc5][0xc5][0x9c][0x14][0xc6][0xbd][0x7][0x1f][0x1d][0x91]V[0x9c]i?[0xf4][0xab][0xe9]2[0xec]<e[0xf1][0xfe][0xec][0xa3][0x97][0xc7]O[0x9f][0x9e][0xbd][0xf8]|[0xfb][0xd5][0xd9][0xe7][0xdf]~[0xf3]hwg[0xf5][0xee]05[0x9f]=?}[0xd6][0xfd][0xe8][0xc9][0x97]o[0xde]|[0xf9]E[0xe7][0xc3]7_[0xbe][0xe4]O[0xa8][0xe7][0xf7][0x1e][0xd1]d[0xfd][0xfb]/[0x84][0xa3][0x83]1[0xed][0x12][\r][0xcd][0x90]vw?R[0xbc][0xec][0xc7][0xe6] 2[0xa1]}[0x8f][0x4][0xa2],.H[0x1e][0xb2]I[0xf3][0x5][0xf1]s[0x99]t[0xf4][0xf7][0xfd][0xaf][0xff]?[0xfe][0xf][0xfd];[0xe9][0xd9][0xd3][0xf4][0x91]y[0xc1][0x93][0x88][0xad][0xbf][0xef][0xef][0xf9][0x9b][0xff][0x93][0xe2][0xb9]C$[0xf9][0xb9][0xa1][0x8e][0x82][0xff]1E|J[0xda]-[0xaf][0xc9][0xe6]=[0x86]^[0xcd][0xea][0xdc]X[0x83][0xf6]][0xab]B.B[0xec][0xff]=-[0xb3][0xa6][0xf9][0xec]#[0x96][0xe6][0x1d]"[0xc2][0xcf][0x2][0x9e][0x87]J[0xf8]G[0xbb][0xf7][0xf9]/[0x9e][0x91]G[0xf][0x1f][0xfe][0xee][0x1f][0x1d][0xcd][0x89][0xab][0xab][0xf4][0xaa][0xaa][0xcb][0xd9]=[0xa2][0x9d][0xa2]};~[0x13][0xa0][0x9f]}[0xb4]O3[0x1b]R[0x80][0xb8][0x6][0xc3]Q[0xe5]T[0x80]c[0x8c]nz[0xb2]n[0xdb]jI[0xe3][0x4][0x1d][0xec][0x1f][0x97][0xca][0x4][0xf7]?J[0xab]%[0x99][0xdb][0xe9][0xdb][0xcf]>R[0xe5][0xeb][[0x9a]C"[0xcf]{[0xb1]b[0xbb][0xfc][0xfd][0xc9][0x96][0xce][0x16][0xcd][0xf8][0xf3][0xb3]g[0xc0][0x92][0xd0][\r][0xa4][0xfc]n|[0xa8][0xf4][0x1b]t[0x83][0xfc][0x81][0x1e][0xdf][0x85]6[0xc7][0xdf][0x8f][0xef][0xaa][0x86]'[0x9d]/~[0xcd][0xff][0x3]^[0xb2][0xa2][0xc6]m[0x9][0x0][0x0]" 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [280] [DEBUG] Connection [id: 2][route: {}->http://www.devpia.com:80] can be kept alive indefinitely 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [286] [DEBUG] Connection released: [id: 2][route: {}->http://www.devpia.com:80][total kept alive: 2; route allocated: 2 of 2; total allocated: 3 of 20] 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [350] [DEBUG] Connection manager is shutting down 
+main> [2014-08-30 16:24:20] [DefaultManagedHttpClientConnection] [79] [DEBUG] http-outgoing-2: Close connection 
+main> [2014-08-30 16:24:20] [DefaultManagedHttpClientConnection] [79] [DEBUG] http-outgoing-0: Close connection 
+main> [2014-08-30 16:24:20] [DefaultManagedHttpClientConnection] [79] [DEBUG] http-outgoing-1: Close connection 
+main> [2014-08-30 16:24:20] [DefaultManagedHttpClientConnection] [79] [DEBUG] http-outgoing-2: Close connection 
+main> [2014-08-30 16:24:20] [DefaultManagedHttpClientConnection] [79] [DEBUG] http-outgoing-1: Close connection 
+main> [2014-08-30 16:24:20] [DefaultManagedHttpClientConnection] [79] [DEBUG] http-outgoing-0: Close connection 
+main> [2014-08-30 16:24:20] [PoolingHttpClientConnectionManager] [356] [DEBUG] Connection manager shut down 
